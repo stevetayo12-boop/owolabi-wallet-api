@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "OwolabiVentures.API\\OwolabiVentures.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "OwolabiVentures.POS\\OwolabiVentures.POS.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
